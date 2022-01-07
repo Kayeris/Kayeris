@@ -1,4 +1,4 @@
-# [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/readme_banner.PNG)]()
+# [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/readme_banner.png)]()
 
 <hr>
 
