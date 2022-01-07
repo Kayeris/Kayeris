@@ -9,7 +9,8 @@ Currently, I am:
     🧩 Director of Marketing for C3 (Canadian Computing Councils - a Nonprofit Organization)  
     🎮 VP Finance of SOCIS (Society of Computing Information Science)  
 
-<hr>
+
+
 ## My Skillsets
 I currently specialize in front-end and UI/UX Design! Recent Favourites to work with include, React, Flutter, HTML, CSS, JS etc; As of late, I'm working away to further develop and refine my backend and middleware skills to call myself a FullStack Developer!  
 <br>
@@ -25,22 +26,22 @@ I currently specialize in front-end and UI/UX Design! Recent Favourites to work 
 <img src="https://img.shields.io/badge/-GitHub-512bd4?style=flat&logo=github" alt="GitHub">
 </div>
 
-<br>
+<hr>
 
 👧🏻💻 I'm Currently Working on...  
-School! I'm also building my personal site, which will be fully complete by the end of this month!
-<!--
-**Kayeris/Kayeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+School! I'm also building my personal site, which will be fully complete by the end of this month!  
+⭐  
+⭐  
+⭐  
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🥇 
+⚡ How to reach me:  
+Instagram:  
+LinkedIn:  
+Twitter:  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayeris&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=3&theme=tokyonight&hide=dart&custom_title=Top-Languages)
+
+
