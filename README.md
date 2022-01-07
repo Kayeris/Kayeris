@@ -41,7 +41,10 @@ Instagram:
 LinkedIn:  
 Twitter:  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayeris&count_private=true&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=3&theme=tokyonight&hide=dart&custom_title=Top-Languages)
+<div align="center" margin-top="5px">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayeris&count_private=true&show_icons=true&theme=merko&custom_title=Zaza's_Stats&line_height=26.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=3&theme=merko&hide=dart&custom_title=Top-Languages)
 
+</div>
+    
