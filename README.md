@@ -34,13 +34,6 @@ School! I'm also building my personal site, which will be fully complete by the 
 ⭐  
 ⭐  
 
-<br>
-
-⚡ How to reach me:  
-Instagram:  
-LinkedIn:  
-Twitter:  
-
 <div align="center" margin-top="5px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayeris&count_private=true&show_icons=true&theme=merko&custom_title=Zaza's_Stats&line_height=26.5)
