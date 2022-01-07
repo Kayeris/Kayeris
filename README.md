@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Kayeris/Kayers/Images/readme_header.png "Header")]
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Kayeris/Kayers/Images/readme_banner.png "Header")]
 
 
 <!--
