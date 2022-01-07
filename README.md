@@ -25,15 +25,13 @@ I currently specialize in front-end and UI/UX Design! Recent Favourites to work 
 <img src="https://img.shields.io/badge/-Git-141311?style=flat&logo=git" alt="Git"> 
 <img src="https://img.shields.io/badge/-GitHub-141311?style=flat&logo=github" alt="GitHub">
 </div>
-gold #f5a142
-blackish #141311
+
 <hr>
 
 👧🏻💻 I'm Currently Working on...  
-School! I'm also building my personal site, which will be fully complete by the end of this month!  
-⭐  
-⭐  
-⭐  
+⭐ School! Classes, clubs, events and the like, busy busy busy!  
+⭐ My personal Website - Launching Feb 1 2022  
+⭐ [Hidden Project~ Shhhh]
 
 <div align="center" margin-top="5px">
 
