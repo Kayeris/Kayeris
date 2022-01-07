@@ -1,8 +1,8 @@
 # [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/readme_banner.png)]()
 
-<hr>
 
-## Hi! I'm Zaza :)
+## Welcome to my Codeverse :)
+<p>Hi! I'm Shaiza (Nickname: Zaza) and I'm currently a 3rd year honours student studying Computer Science at the University of Guelph! </p>
 
 
 <!--
