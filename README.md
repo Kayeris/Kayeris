@@ -1,18 +1,20 @@
-# [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/readme_banner.png)](https://zazulezaza.carrd.co/)
+# [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/linkedin_banner.png)](https://zazulezaza.carrd.co/)
 
 
 ## Welcome to my Codeverse :)
-🙋🏻 Hi! I'm Shaiza (Nickname: Zaza) and I'm currently a 3rd year honours student studying Computer Science at the University of Guelph! I'm thoroughly involved in community affairs whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it!
+🙋🏻 Hi! I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph! I'm thoroughly involved in community affairs whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it!
 Currently, I am:  
-    🤸‍♀️ President of GCC (Guelph Coding Community)  
-    🤹‍♀️ Co-Chair of GryphHacks (UoG's Official Hackathon  
+    🤹‍♀️ Co-Chair and Co-founder of GryphHacks (UoG's Official Hackathon)  
     🧩 Director of Marketing for C3 (Canadian Computing Councils - a Nonprofit Organization)  
-    🎮 VP Finance of SOCIS (Society of Computing Information Science)  
 
+Previous positions included:  
+    🤸‍♀️ President of GCC (Guelph Coding Community)  
+    🎮 VP Finance/Marketing of SOCIS (Society of Computing Information Science)  
 
 
 ## My Skillsets
-I currently specialize in front-end and UI/UX Design! Recent Favourites to work with include, React, Flutter, HTML, CSS, JS etc; As of late, I'm working away to further develop and refine my backend and middleware skills to call myself a FullStack Developer!  
+I specialize in front-end development and UI/UX Design! My favourites to work with include, React, Flutter, HTML, CSS, JS etc; As of late, I'm polishing and refining my animation skills to further imrpove a user's interactive experience with the sites I build.
+
 <br>
 <div align="center" margin-top="5px">
 <img src="https://img.shields.io/badge/--141311?style=flat&logo=c&logoColor=ffffff&textColor=000000" alt="C"> <img src="https://img.shields.io/badge/-Java-141311?style=flat&logo=java&logoColor=white&textColor=000000" alt="Java"> 
@@ -30,7 +32,8 @@ I currently specialize in front-end and UI/UX Design! Recent Favourites to work 
 
 👧🏻💻 I'm Currently Working on...  
 ⭐ School! Classes, clubs, events and the like, busy busy busy!  
-⭐ My personal Website - Launching Feb 1 2022  
+⭐ My personal Website - Launching Feb 1 2023  
+⭐ A Google Chrome Extension - Launching by the end of January 2023
 ⭐ [Hidden Project~ Shhhh]
 
 <div align="center" margin-top="5px">
