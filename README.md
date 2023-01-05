@@ -2,7 +2,8 @@
 
 
 ## Welcome to my Codeverse :)
-🙋🏻 Hi! I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph! I'm thoroughly involved in community affairs whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it!
+🙋🏻 Hi! I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph! I'm thoroughly involved in community affairs whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it!  
+
 Currently, I am:  
     🤹‍♀️ Co-Chair and Co-founder of GryphHacks (UoG's Official Hackathon)  
     🧩 Director of Marketing for C3 (Canadian Computing Councils - a Nonprofit Organization)  
