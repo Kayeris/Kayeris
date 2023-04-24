@@ -2,16 +2,21 @@
 
 
 
-## Welcome to my Codeverse :)
-🙋🏻 Hi! I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph! I'm thoroughly involved in community affairs whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it!  
+## Welcome to my Codeverse :)  
+Currently a 4th year Honours Student at the University of Guelph. Recognized for having a strong desire to work with future technological leaders in the industry for both professional and personal growth. A quick learner, ready to overcome any challenges that come her way.  
+<br>
+
+🙋🏻 Hi! I am a university student who's been involved with technology, and more specifically, coding, for over 8 years. I specialize in design and front-end development of websites, apps etc! I like to spend my time making things, either in creative aspects (stories, poems, photography) or learning new tips & tricks in the coding world! I'm also thoroughly involved in the community whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it! 
+
+I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph!  
 
 Currently, I am:  
     🤹‍♀️ Co-Chair and Co-founder of GryphHacks (UoG's Official Hackathon)  
-    🧩 Director of Marketing for C3 (Canadian Computing Councils - a Nonprofit Organization)  
 
-Previous positions included:  
+Previous positions include:  
     🤸‍♀️ President of GCC (Guelph Coding Community)  
     🎮 VP Finance/Marketing of SOCIS (Society of Computing Information Science)  
+    🧩 Director of Marketing for C3 (Canadian Computing Councils - a Nonprofit Organization)  
 
 
 ## My Skillsets
@@ -33,15 +38,14 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 <hr>
 
 👧🏻💻 I'm Currently Working on...  
-⭐ School! Classes, clubs, events and the like, busy busy busy!  
-⭐ My personal Website - Launching Feb 1 2023  
-⭐ A Google Chrome Extension - Launching by the end of January 2023
-⭐ [Hidden Project~ Shhhh]
+⭐ My Personal Website - Coming Soon
+⭐ A Google Chrome Extension - Coming Soon
+⭐ Polishing my D3.js and Animation skills
+⭐ Forever learning about new cool things to implement!
+
 
 <div align="center" margin-top="5px">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayeris&count_private=true&show_icons=true&theme=great-gatsby&custom_title=Zaza's_Stats&line_height=26.5)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=3&theme=great-gatsby&hide=dart&custom_title=Top-Languages)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=10&theme=great-gatsby&hide=dart&custom_title=Top-Languages)
 
 </div>
     
