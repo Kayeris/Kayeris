@@ -2,7 +2,7 @@
 
 
 
-## Welcome to my Codeverse :)  
+# 👋 Welcome to my Codeverse :)  
 Currently a 4th year Honours Student at the University of Guelph. Recognized for having a strong desire to work with future technological leaders in the industry for both professional and personal growth. A quick learner, ready to overcome any challenges that come her way.  
 <br>
 
