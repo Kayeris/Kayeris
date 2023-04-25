@@ -8,7 +8,6 @@ Currently a 4th year Honours Student at the University of Guelph. Recognized for
 
 🙋🏻 Hi! I am a university student who's been involved with technology, and more specifically, coding, for over 8 years. I specialize in design and front-end development of websites, apps etc! I like to spend my time making things, either in creative aspects (stories, poems, photography) or learning new tips & tricks in the coding world! I'm also thoroughly involved in the community whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it! 
 
-I'm Shaiza and I'm currently a 4th year honours student studying Computer Science at the University of Guelph!  
 
 
 
