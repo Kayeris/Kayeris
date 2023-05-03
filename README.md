@@ -76,18 +76,6 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 
 
 <br>
-<div align="center" margin-top="5px">
-    <img src="https://img.shields.io/badge/--141311?style=flat&logo=c&logoColor=ffffff&textColor=000000" alt="C"> 
-    <img src="https://img.shields.io/badge/-Java-141311?style=flat&logo=java&logoColor=white&textColor=000000" alt="Java"> 
-    <img src="https://img.shields.io/badge/-Python-141311?style=flat&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/-JavaScript-141311?style=flat&logo=javascript&logoColor=eed718" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Nodejs-141311?style=flat&logo=Node.js" alt="Node.js">
-    <img src = "https://img.shields.io/badge/-HTML5-141311?style=flat&logo=html5&logoColor=white" alt="HTML5">
-    <img src = "https://img.shields.io/badge/-CSS3-141311?style=flat&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/-Bootstrap-141311?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/-Git-141311?style=flat&logo=git" alt="Git"> 
-    <img src="https://img.shields.io/badge/-GitHub-141311?style=flat&logo=github" alt="GitHub">
-</div>
 
 <hr>
 
