@@ -1,18 +1,31 @@
-# [![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/banner.png)](https://zazulezaza.carrd.co/)
+# Welcome to my Codeverse ᯓ🌎 ![Zaza H Banner](https://raw.githubusercontent.com/Kayeris/Kayeris/main/Images/transparentswing.gif)
 
+🔧 **Frontend & FullStack Software Engineer** |  🕮 **Author**  | 🎥 **Vlogger**
 
-
-# 👋 Welcome to my Codeverse :)  
-Currently a 4th year Honours Student at the University of Guelph. Recognized for having a strong desire to work with future technological leaders in the industry for both professional and personal growth. A quick learner, ready to overcome any challenges that come her way.  
-<br>
-
-🙋🏻 Hi! I am a university student who's been involved with technology, and more specifically, coding, for over 8 years. I specialize in design and front-end development of websites, apps etc! I like to spend my time making things, either in creative aspects (stories, poems, photography) or learning new tips & tricks in the coding world! I'm also thoroughly involved in the community whether it be clubs, hackathons, or volunteer activities. You name it, I'm probably involved in it! 
-
-
-
-
-## My Skillsets
 I specialize in front-end development and UI/UX Design! My favourites to work with include, React, JS, HTML, CSS, Flutter, Angular etc; As of late, I'm polishing and refining my animation skills to further imrpove a user's interactive experience with the sites I build.
+
+<table border="0">
+  <tr>
+      <th width="25%" >
+        <img src="/Images/repeatdays.gif" style="width: 100%;">
+      </th>
+      <th align="left" width="60%" >
+        <h3> 🚀 Current Projects: </h3>
+        <p> ☆ My Personal Website - Version 3.2  </p>
+        <p> ☆ A Google Chrome Extension - Coming Soon  </p>
+        <p> ☆ Forever learning about new cool things to implement!  </p> 
+      </th>
+      <th align="left" width="30%" >
+         <h3> 🌱 Always Learning: </h3>
+          <p>☆ D3.js </p>  
+          <p>☆ Animation skills</p>   
+      </th>
+    
+  </tr>
+
+</table>
+<hr>
+
 
 ### Language, Databases, & Design
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -21,10 +34,8 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -34,8 +45,6 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
@@ -75,21 +84,3 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 
-<br>
-
-<hr>
-
-👧🏻💻 I'm Currently Working on...  
-⭐ My Personal Website - Coming Soon  
-⭐ A Google Chrome Extension - Coming Soon  
-⭐ Polishing my D3.js and Animation skills  
-⭐ Forever learning about new cool things to implement! 
-
-
-
-<div align="center" margin-top="5px">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayeris&langs_count=5&theme=gotham&card_width=1000)
-    
-</div>
-    
