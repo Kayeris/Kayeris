@@ -9,7 +9,7 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
       <th width="25%" >
         <img src="/Images/repeatdays.gif" style="width: 100%;">
       </th>
-      <th align="left" width="60%" >
+      <th align="left" width="55%" >
         <h3> 🚀 Current Projects: </h3>
         <p> ☆ My Personal Website - Version 3.2  </p>
         <p> ☆ A Google Chrome Extension - Coming Soon  </p>
