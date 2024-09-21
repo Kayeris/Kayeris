@@ -6,7 +6,7 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
 
 <table border="0">
   <tr>
-      <th width="25%" >
+      <th width="20%" >
         <img src="/Images/repeatdays.gif" style="width: 100%;">
       </th>
       <th align="left" width="55%" >
