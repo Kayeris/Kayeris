@@ -19,6 +19,7 @@ I specialize in front-end development and UI/UX Design! My favourites to work wi
          <h3> 🌱 Always Learning: </h3>
           <p>☆ D3.js </p>  
           <p>☆ Animation skills</p>   
+          <p>☆ Innovate and Create</p>   
       </th>
     
   </tr>
